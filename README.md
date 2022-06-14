@@ -1,7 +1,8 @@
 # MovieLand using OMDb API
 
 ## Working
-https://media.giphy.com/media/5VDuDUlKOQrYZLUGas/giphy.gif
+
+![Alt Text](https://media.giphy.com/media/5VDuDUlKOQrYZLUGas/giphy.gif)
 
 
 ## Available Scripts
